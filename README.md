@@ -1,6 +1,6 @@
 # Abeille
 
-Version master en développement permanent.
+Version stable du 16/08/2019. 
 
 
 ## Plugin pour Jeedom (Gateway ZiGate)
